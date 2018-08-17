@@ -1,2 +1,1 @@
-# ChildrenOfTime
-Advanced Programming in Java course (Spring 2015)
+# 94105139_94106757
